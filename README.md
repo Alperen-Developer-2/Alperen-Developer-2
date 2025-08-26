@@ -12,8 +12,7 @@
 - 🧠 Creator of my own AI model: **IONCORE.ai**  
 - 🔬 Actively working on TÜBİTAK-supported R&D projects (Calls #1002–#4004)  
 - 🤖 Focused on Deep Learning (GANs, detection models, automation)  
-- 🛡️ Developer of **Pardus-E**: A national OS for defense and public use  
-- 💻 Building OS frameworks with integrated BIOS: **NEOx**, **Pardus-Eylül**  
+- 💻 Building OS frameworks with integrated BIOS: **NeOx**.
 - ⚛️ Creator of **QUANTUM Q'es**, a simulator of 183 quantum theories  
 - 🧠 Building **BOTEG**, an AI-based intelligence system  
 - 💻 Programming Languages: Python, C, C++, Java, JavaScript, HTML/CSS  
@@ -25,7 +24,6 @@
 
 | Project Name | Description | Technologies Used |
 |--------------|------------|-----------------|
-| Pardus-E | National operating system (TÜBİTAK-supported) | C/C++, Python, Shell |
 | NEOx OS | Advanced OS with integrated BIOS dashboard | React, C++, MySQL |
 | Pardus-Eylül | Lightweight BIOS loader system | JavaScript, SQL, JSON |
 | QUANTUM Q'es | Quantum theory simulator (183 models) | Q#, Python, Electron |
@@ -48,8 +46,8 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: timonto43@gmail.com - mr.timonto@gmail.com  
-- 🧠 Team: Cenix Technologies® (Part of Datakral)  
+- 📧 Email: mr.timonto@proton.me | mr.timonto@gmail.com  
+- 🧠 Team: DataKral Technologies® (Part of Cenix Technology Team)  
 - 🆔 Team ID: #731742  
 - 🚀 Teknofest Application ID: #3582274  
 
