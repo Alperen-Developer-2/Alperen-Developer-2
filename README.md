@@ -39,7 +39,7 @@
 ## 🏆 Competitions & Contributions
 
 - 🎯 Teknofest 2025 – Pardus Debugging & Suggestion Challenge  
-- 🧪 National R&D contributions with TÜBİTAK (1002–4004 calls)  
+- 🧪 National R&D contributions with TÜBİTAK (1002–4006 calls)  
 - 💡 Completed over 248 projects in total, from local to national level  
 
 ---
