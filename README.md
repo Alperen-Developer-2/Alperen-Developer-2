@@ -60,3 +60,5 @@ Thank you for visiting my GitHub profile. I'm always open to collaboration and i
 > **Not:** Bu GitHub hesabı **Alperen-Developer** kullanıcı adına aittir. Hesabımı kaybettim ve artık erişimim yok.  
 > Bu sayfa, geçmiş çalışmalarımı ve projelerimi arşivlemek amacıyla burada tutulmaktadır.
 
+![Bağış Yap](https://img.shields.io/badge/bağış-yap-yellow)
+[![Sponsor](https://img.shields.io/badge/sponsor-ol-red)](https://buymeacoffee.com/kullaniciadi)
