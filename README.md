@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🧠 Creator of my own AI model: **IONCORE.ai**  
-- 🔬 Actively working on TÜBİTAK-supported R&D projects (Calls #1002–#4004)  
+- 🔬 Actively working on TÜBİTAK-supported R&D projects (Calls #1002–#4006)  
 - 🤖 Focused on Deep Learning (GANs, detection models, automation)  
 - 💻 Building OS frameworks with integrated BIOS: **NeOx**.
 - ⚛️ Creator of **QUANTUM Q'es**, a simulator of 183 quantum theories  
