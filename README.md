@@ -1,9 +1,12 @@
+ # 👋 Hi, I'm Alperen Erkan
 
-# 👋 Hi, I'm Alperen Erkan
+I am a 14-year-old 8th-grade student and a passionate young innovator in technology and physics.  
+Since 2nd grade, I have been exploring electronics, computer science, classical physics, and quantum physics.  
 
-🎓 I'm a student with a vision to achieve big goals at a young age.  
-💻 Passionate about Artificial Intelligence, Quantum Physics, Operating Systems, and Embedded Software.  
-🚀 Currently working on various advanced projects including Pardus-E, QUANTUM Q's, Q2S, NEOx, and more.  
+- 🌐 Fluent in 5 languages  
+- 💻 Proficient in 12 programming languages  
+- 🏆 Completed 300+ projects, including AI, OS development, embedded systems, and scientific simulations
+
 
 ---
 
