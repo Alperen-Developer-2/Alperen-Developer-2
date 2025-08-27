@@ -1,62 +1,65 @@
- # 👋 Hi, I'm Alperen Erkan
 
-I am a 14-year-old 8th-grade student and a passionate young innovator in technology and physics.  
-Since 2nd grade, I have been exploring electronics, computer science, classical physics, and quantum physics.  
-
-- 🌐 Fluent in 5 languages  
-- 💻 Proficient in 12 programming languages  
-- 🏆 Completed 300+ projects, including AI, OS development, embedded systems, and scientific simulations
-
+# 👋 Hi, I'm Alperen Erkan
+*14-year-old Tech & Science Prodigy | Creator of NeOx OS, High-Speed UAVs, AI Systems, and Quantum Simulators*
 
 ---
 
 ## 🧠 About Me
+I am an 8th-grade student passionate about technology, electronics, computer science, and physics (classical & quantum).  
+Since 2nd grade, I have been exploring and building projects in advanced scientific and technological fields.  
 
-- 🧠 Creator of my own AI model: **IONCORE.ai**  
-- 🔬 Actively working on TÜBİTAK-supported R&D projects (Calls #1002–#4006)  
-- 🤖 Focused on Deep Learning (GANs, detection models, automation)  
-- 💻 Building OS frameworks with integrated BIOS: **NeOx**.
-- ⚛️ Creator of **QUANTUM Q'es**, a simulator of 183 quantum theories  
-- 🧠 Building **BOTEG**, an AI-based intelligence system  
-- 💻 Programming Languages: Python, C, C++, Java, JavaScript, HTML/CSS  
-- 🧰 Tech Stack: React, Electron.js, MySQL, Shell (zsh), JSON  
-
----
-
-## 🔧 Active Projects
-
-| Project Name | Description | Technologies Used |
-|--------------|------------|-----------------|
-| NEOx OS | Advanced OS with integrated BIOS dashboard | React, C++, MySQL |
-| Pardus-Eylül | Lightweight BIOS loader system | JavaScript, SQL, JSON |
-| QUANTUM Q'es | Quantum theory simulator (183 models) | Q#, Python, Electron |
-| IONCORE.ai | Deep learning AI model | PyTorch, TensorFlow |
-| BOTEG | AI-powered intelligence system | C++, Python |
-| DeepFake | Real-time face manipulation and spoofing detection | OpenCV, PyTorch, Flask |
-| Metspoilt | Custom security exploitation & vulnerability scanner | Python, Metasploit Framework |
-| WiresMonth | Embedded network monitoring & packet analysis | C++, Wireshark APIs |
-| Aircraft-ID System | Aircraft recognition via AI-enhanced image models | TensorFlow, YOLOv8, OpenCV |
+- 🌐 Fluent in **5 languages**  
+- 💻 Proficient in **12 programming languages**  
+- 🏆 Completed **300+ projects** in AI, OS development, embedded systems, security, and simulations  
+- ⚛️ Creator of **QUANTUM Q'es**, simulating 183 quantum theories  
+- 🤖 Developer of **IONCORE.ai**, a deep learning AI model  
+- 💻 Building OS frameworks with integrated BIOS: **NeOx OS**  
+- ⚡ Worked on **High-Speed UAV / SIHA projects** with Teknoloji Bakanlığı & ODTÜ  
+- 🛠 Creator of **ADK – Advanced Development Kit** with DataKral Technologies  
 
 ---
 
-## 🏆 Competitions & Contributions
+## 🔧 Featured Projects
 
+| Project | Description | Technologies / Partners |
+|---------|------------|------------------------|
+| **NeOx OS** | Security-focused OS with integrated BIOS dashboard | TÜBİTAK, Havelsan, Alka Savunma, NASA, C++, React, MySQL |
+| **High-Speed UAV / SIHA Project** | Advanced UAV & drone model development | Teknoloji Bakanlığı, ODTÜ, Aerospace Tools |
+| **ADK – Development Kit** | Embedded systems kit for prototyping | DataKral Technologies, C++, Python |
+| **QUANTUM Q'es** | Simulator of 183 quantum theories | Q#, Python, Electron |
+| **IONCORE.ai** | Deep learning AI model with autonomous reasoning | PyTorch, TensorFlow |
+| **BOTEG** | AI-powered intelligence system | C++, Python |
+| **DeepFake** | Real-time face manipulation & spoofing detection | OpenCV, PyTorch, Flask |
+| **Metspoilt** | Custom security exploitation & vulnerability scanner | Python, Metasploit Framework |
+| **WiresMonth** | Embedded network monitoring & packet analysis | C++, Wireshark APIs |
+| **Aircraft-ID System** | Aircraft recognition via AI-enhanced image models | TensorFlow, YOLOv8, OpenCV |
+| **Pardus-Eylül** | Lightweight BIOS loader system | JavaScript, SQL, JSON |
+
+---
+
+## 💻 Tech Stack & Skills
+- **Languages:** Python, C, C++, Java, JavaScript, HTML/CSS  
+- **Frameworks / Tools:** React, Electron.js, MySQL, Shell (zsh), JSON, Wireshark APIs, Metasploit  
+- **Areas of Expertise:** OS Development, Embedded Systems, AI / Deep Learning, Quantum Simulations, Security  
+
+---
+
+## 🏆 Achievements & Contributions
 - 🎯 Teknofest 2025 – Pardus Debugging & Suggestion Challenge  
 - 🧪 National R&D contributions with TÜBİTAK (1002–4006 calls)  
-- 💡 Completed over 248 projects in total, from local to national level  
+- ⚡ Successfully completed 300+ projects  
+- 📡 High-speed UAV prototypes tested and optimized with Teknoloji Bakanlığı & ODTÜ  
 
 ---
 
 ## 📬 Contact Me
-
 - 📧 Email: mr.timonto@proton.me | mr.timonto@gmail.com  
-- 🧠 Team: DataKral Technologies® (Part of Cenix Technology Team)  
-- 🆔 Team ID: #731742  
+- 🆔 Team: DataKral Technologies® (Part of Cenix Technology Team)  
 - 🚀 Teknofest Application ID: #3582274  
 
 ---
 
-Thank you for visiting my GitHub profile. I'm always open to collaboration and innovation in future-forward technologies!
+> 💡 Always open to collaboration, mentorship, and innovative technology projects. Let's build the future!
 
 ---
 
